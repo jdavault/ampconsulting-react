@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p className="amp-home-text">Future Home of</p>
+        <p className="amp-home-text">The future home of</p>
         <p className="amp-logo">
           <FontAwesomeIcon icon={faBookOpen} className="amp-logo" />
           <span className="amp-logo"> AMP </span>
